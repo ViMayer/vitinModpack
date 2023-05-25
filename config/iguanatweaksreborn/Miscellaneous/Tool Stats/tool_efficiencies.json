@@ -1,0 +1,46 @@
+[
+  // {
+  //   "tag": "iguanatweaksreborn:equipment/hand/tools/wooden",
+  //   "value": 1.5
+  // },
+  // {
+  //   "tag": "iguanatweaksreborn:equipment/hand/tools/stone",
+  //   "value": 3.0
+  // },
+  // {
+  //   "tag": "iguanatweaksreborn:equipment/hand/tools/iron",
+  //   "value": 5.5
+  // },
+  // {
+  //   "tag": "iguanatweaksreborn:equipment/hand/tools/diamond",
+  //   "value": 7.5
+  // },
+  {
+    "id": "notreepunching:flint_pickaxe",
+    "value": 0.5
+  },
+  {
+    "id": "minecraft:wooden_pickaxe",
+    "value": 1.0
+  },
+  {
+    "id": "minecraft:stone_pickaxe",
+    "value": 1.25
+  },
+  {
+    "id": "minecraft:golden_pickaxe",
+    "value": 2.5
+  },
+  {
+    "id": "minecraft:iron_pickaxe",
+    "value": 10.0
+  },
+  {
+    "id": "minecraft:diamond_pickaxe",
+    "value": 16.0
+  },
+  {
+    "id": "minecraft:netherite_pickaxe",
+    "value": 20.0
+  }
+]

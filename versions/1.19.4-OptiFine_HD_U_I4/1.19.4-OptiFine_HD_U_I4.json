@@ -1,0 +1,22 @@
+{
+  "id": "1.19.4-OptiFine_HD_U_I4",
+  "inheritsFrom": "1.19.4",
+  "time": "2023-04-22T15:36:20-03:00",
+  "releaseTime": "2023-04-22T15:36:20-03:00",
+  "type": "release",
+  "libraries": [
+    {
+      "name": "optifine:OptiFine:1.19.4_HD_U_I4"
+    },
+    {
+      "name": "optifine:launchwrapper-of:2.3"
+    }
+  ],
+  "mainClass": "net.minecraft.launchwrapper.Launch",
+  "arguments": {
+    "game": [
+      "--tweakClass",
+      "optifine.OptiFineTweaker"
+    ]
+  }
+}

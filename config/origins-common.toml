@@ -1,0 +1,384 @@
+
+[origins]
+
+	[origins."origins:enderian"]
+		enabled = true
+		"origins:throw_ender_pearl" = true
+		"origins:water_vulnerability" = true
+		"origins:pumpkin_hate" = true
+		"origins:extra_reach" = true
+		"origins:ender_particles" = true
+		"origins:damage_from_potions" = true
+
+	[origins."origins:arachnid"]
+		enabled = true
+		"origins:climbing" = true
+		"origins:master_of_webs" = true
+		"origins:carnivore" = true
+		"origins:fragile" = true
+		"origins:arthropod" = true
+
+	[origins."origins:human"]
+		enabled = true
+
+	[origins."origins:blazeborn"]
+		enabled = true
+		"origins:fire_immunity" = true
+		"origins:nether_spawn" = true
+		"origins:burning_wrath" = true
+		"origins:hotblooded" = true
+		"origins:water_vulnerability" = true
+		"origins:flame_particles" = true
+		"origins:damage_from_snowballs" = true
+		"origins:damage_from_potions" = true
+
+	[origins."origins:avian"]
+		enabled = true
+		"origins:slow_falling" = true
+		"origins:fresh_air" = true
+		"origins:like_air" = true
+		"origins:tailwind" = true
+		"origins:lay_eggs" = true
+		"origins:vegetarian" = true
+
+	[origins."origins:feline"]
+		enabled = true
+		"origins:fall_immunity" = true
+		"origins:sprint_jump" = true
+		"origins:velvet_paws" = true
+		"origins:nine_lives" = true
+		"origins:weak_arms" = true
+		"origins:scare_creepers" = true
+		"origins:cat_vision" = true
+
+	[origins."origins:elytrian"]
+		enabled = true
+		"origins:elytra" = true
+		"origins:launch_into_air" = true
+		"origins:aerial_combatant" = true
+		"origins:light_armor" = true
+		"origins:claustrophobia" = true
+		"origins:more_kinetic_damage" = true
+
+	[origins."origins:shulk"]
+		enabled = true
+		"origins:shulker_inventory" = true
+		"origins:natural_armor" = true
+		"origins:strong_arms" = true
+		"origins:strong_arms_break_speed" = true
+		"origins:no_shield" = true
+		"origins:more_exhaustion" = true
+
+	[origins."origins:merling"]
+		enabled = true
+		"origins:water_breathing" = true
+		"origins:water_vision" = true
+		"origins:aqua_affinity" = true
+		"origins:swim_speed" = true
+		"origins:like_water" = true
+		"origins:aquatic" = true
+		"origins:conduit_power_on_land" = true
+		"origins:air_from_potions" = true
+
+	[origins."origins:phantom"]
+		enabled = true
+		"origins:phantomize" = true
+		"origins:translucent" = true
+		"origins:phasing" = true
+		"origins:invisibility" = true
+		"origins:burn_in_daylight" = true
+		"origins:hunger_over_time" = true
+		"origins:fragile" = true
+		"origins:phantomize_overlay" = true
+
+	[origins."zender:zender"]
+		enabled = true
+		"zender:perola" = true
+		"zender:no_potion" = true
+		"zender:visao_noturna" = true
+		"zender:silk_touch" = true
+		"zender:xp" = true
+		"zender:aboborafobia" = true
+		"zender:pulo" = true
+		"zender:inv_flechas" = true
+		"zender:comer" = true
+		"zender:comer2" = true
+		"zender:comida_ruim" = true
+		"zender:malvado" = true
+		"zender:grandao" = true
+		"zender:rasgo_dimensional" = true
+		"zender:rasgo_dimensional_efeitos" = true
+		"zender:rasgo_dimensional_efeitos_fail" = true
+		"zender:dano_agua_chuva" = true
+		"zender:dano_agua_encostar" = true
+		"zender:dano_agua_nadar" = true
+		"zender:zender_som_aleatorio" = true
+		"zender:zender_particulas" = true
+		"zender:zender_particulas_dano" = true
+		"zender:velocidade" = true
+		"zender:torta" = true
+		"zender:storage_swap" = true
+		"origins:damage_from_potions" = true
+		"origins:extra_reach" = true
+
+	[origins."galinha:galinha"]
+		enabled = true
+		"origins:vegetarian" = true
+		"origins:fresh_air" = true
+		"galinha:cartilaginoso" = true
+		"galinha:galinha_particulas" = true
+		"galinha:galinha_som" = true
+		"galinha:galinha_som_aleatorio" = true
+		"galinha:menos_ar" = true
+		"galinha:sem_peitoral" = true
+		"galinha:biscoito" = true
+		"galinha:veloz" = true
+		"galinha:pernoca" = true
+		"galinha:comer" = true
+		"galinha:botar_ovo" = true
+		"galinha:asas" = true
+		"galinha:penudo" = true
+		"galinha:penudo2" = true
+		"galinha:nado" = true
+		"galinha:trovao" = true
+		"galinha:voo_galinaceo" = true
+		"galinha:voo_galinaceo2" = true
+		"galinha:voo_galinaceo_efeitos" = true
+		"galinha:voo_galinaceo_efeitos2" = true
+		"galinha:frangote" = true
+		"galinha:visao_noturna" = true
+
+	[origins."gatito:gatito"]
+		enabled = true
+		"gatito:pulo_duplo" = true
+		"gatito:velocidade" = true
+		"gatito:defesa_capa" = true
+		"gatito:defesa_bota" = true
+		"gatito:pequeno" = true
+		"gatito:peixeiro" = true
+		"gatito:spawn_jungle" = true
+		"gatito:comer_tropical_fish" = true
+		"gatito:gatito_som" = true
+		"gatito:gatito_particulas" = true
+		"gatito:gato_som_aleatorio" = true
+		"gatito:gato_som_aleatorio_fome" = true
+		"gatito:gatito_som_cama" = true
+		"gatito:gatito_som_agua" = true
+		"gatito:bonzinho" = true
+		"gatito:poder01" = true
+		"gatito:poder02" = true
+		"gatito:esgrima" = true
+		"gatito:espada_dano" = true
+		"gatito:segunda_chance" = true
+		"gatito:segunda_chance_cd" = true
+		"gatito:dano_com_armas" = true
+		"gatito:quebrar" = true
+		"gatito:aguafobia" = true
+		"gatito:botas" = true
+		"gatito:reparar" = true
+		"origins:fall_immunity" = true
+		"origins:sprint_jump" = true
+		"origins:nine_lives" = true
+		"origins:scare_creepers" = true
+		"origins:cat_vision" = true
+		"gatito:stats" = true
+		"gatito:double_jump" = true
+		"gatito:armor_stats" = true
+		"gatito:fencing" = true
+		"gatito:cat_sized" = true
+		"gatito:good_fella" = true
+		"gatito:cute_face" = true
+		"gatito:foods" = true
+		"gatito:water_effects" = true
+		"gatito:cat_eyes" = true
+		"gatito:sound_effects" = true
+		"gatito:sharp_claws" = true
+		"gatito:best_friend" = true
+		"gatito:hit_particles" = true
+		"origins:velvet_paws" = true
+		"gatito:unbreakable_items" = true
+		"gatito:second_chance" = true
+
+	[origins."planta:planta"]
+		enabled = true
+		"planta:sem_pulmao" = true
+		"planta:sem_regen" = true
+		"planta:atravessar" = true
+		"planta:atravessar_ativar" = true
+		"planta:atravessar_shader" = true
+		"planta:atravessar_som" = true
+		"planta:planta_particulas" = true
+		"planta:planta_som" = true
+		"planta:flor1" = true
+		"planta:gancho" = true
+		"planta:gancho_funcionar" = true
+		"planta:flor2" = true
+		"planta:escalada" = true
+		"planta:cuspir_flecha" = true
+		"planta:cuspir_flecha_som" = true
+		"planta:menos_queda" = true
+		"planta:atributo_dano_dado" = true
+		"planta:atributo_dano_fogo" = true
+		"planta:atributo_velocidade_minerar" = true
+		"planta:atributo_vida" = true
+		"planta:azaleia_efeito" = true
+		"planta:azaleia_equipar" = true
+		"planta:composter" = true
+		"planta:corpo_verde" = true
+		"planta:dieta_osso" = true
+		"planta:dieta_sem_regen" = true
+		"planta:dieta_sol" = true
+		"planta:fotossintese" = true
+		"planta:quebrar_capa" = true
+		"planta:raizes_molhadas" = true
+		"planta:tamanho" = true
+		"planta:tremer" = true
+
+	[origins."ethan:ethan"]
+		enabled = true
+		"ethan:voar_ativar" = true
+		"ethan:voar_voar" = true
+		"ethan:voar_shader" = true
+		"ethan:voar_speed" = true
+		"ethan:invisibilidade" = true
+		"ethan:malvado" = true
+		"ethan:phase" = true
+		"ethan:phase_ativar" = true
+		"ethan:phase_shader" = true
+		"ethan:ethan_som" = true
+		"ethan:ethan_particulas" = true
+		"ethan:comer" = true
+		"ethan:comer_vidro" = true
+		"ethan:flor" = true
+		"ethan:flor_efeito" = true
+		"ethan:flor2" = true
+		"ethan:flor_efeito2" = true
+		"origins:phantomize" = true
+		"origins:translucent" = true
+		"origins:burn_in_daylight" = true
+		"origins:fragile" = true
+
+	[origins."abelha:abelha"]
+		enabled = true
+		"abelha:pulo_duplo" = true
+		"abelha:queda" = true
+
+	[origins."sereia:sereia"]
+		enabled = true
+		"sereia:feita_para_cantar" = true
+		"sereia:comer" = true
+		"sereia:comer2" = true
+		"sereia:sereia_particulas" = true
+		"sereia:sereia_som" = true
+		"sereia:vidro_equipar" = true
+		"sereia:vidro_efeito" = true
+		"sereia:quebrar_vidro" = true
+		"sereia:tridente_escudo" = true
+		"sereia:tridente_jogar" = true
+		"sereia:air_bottle" = true
+		"sereia:sereia_visao" = true
+		"sereia:espetar" = true
+		"sereia:nadar" = true
+		"sereia:nado" = true
+		"sereia:cantoria" = true
+		"sereia:sangue_venenoso" = true
+		"sereia:spawn_oceano" = true
+		"origins:water_breathing" = true
+		"origins:aqua_affinity" = true
+		"origins:like_water" = true
+		"origins:aquatic" = true
+		"origins:conduit_power_on_land" = true
+
+	[origins."axolote:axolote"]
+		enabled = true
+		"axolote:spawn_oceano" = true
+		"axolote:pele_molhada" = true
+		"axolote:efeito_transparente" = true
+		"axolote:efeito_particulas" = true
+		"axolote:efeito_particulas2" = true
+		"axolote:efeito_som" = true
+		"axolote:ataque_som" = true
+		"axolote:algueiro" = true
+		"axolote:comer" = true
+		"axolote:reparar_resource" = true
+		"axolote:nado" = true
+		"axolote:reparar_cd" = true
+		"axolote:durabilidade_tridente_aviso" = true
+		"axolote:durabilidade_tridente_shake" = true
+		"axolote:regenerador" = true
+		"axolote:velocidade_terra" = true
+		"axolote:visao_noturna" = true
+		"axolote:terceiro_sentido" = true
+		"axolote:terceiro_sentido2" = true
+		"axolote:defesa_coroa" = true
+		"axolote:buff_de_guerra" = true
+		"axolote:dano_com_armas" = true
+		"axolote:dano_seco_sem_armas" = true
+		"axolote:dano_molhado_sem_armas" = true
+		"axolote:dano_tridente_molhado" = true
+		"axolote:dano_tridente_seco" = true
+		"axolote:dano_tridente_jogar" = true
+		"axolote:velocidade_ataque_tridente" = true
+		"axolote:velocidade_ataque_seco" = true
+		"axolote:pequeno" = true
+		"axolote:respirador" = true
+		"axolote:vulneravel" = true
+		"axolote:poder01" = true
+		"axolote:benca01" = true
+		"axolote:benca02" = true
+		"axolote:tridente_jogar" = true
+		"axolote:tridente_escudo" = true
+		"axolote:quebrar" = true
+		"origins:aquatic" = true
+		"origins:like_water" = true
+		"origins:conduit_power_on_land" = true
+		"axolote:dano_reduzido" = true
+
+	[origins."tanfasma:tanfasma"]
+		enabled = true
+		"tanfasma:voar_ativar" = true
+		"tanfasma:voar_voar" = true
+		"tanfasma:voar_shader" = true
+		"tanfasma:voar_speed" = true
+		"tanfasma:invisibilidade" = true
+		"tanfasma:malvado" = true
+		"tanfasma:phase" = true
+		"tanfasma:phase_ativar" = true
+		"tanfasma:phase_shader" = true
+		"tanfasma:tanfasma_som" = true
+		"tanfasma:tanfasma_particulas" = true
+		"tanfasma:comer" = true
+		"tanfasma:comer_vidro" = true
+		"tanfasma:flor" = true
+		"tanfasma:flor_efeito" = true
+		"tanfasma:flor2" = true
+		"tanfasma:flor_efeito2" = true
+		"origins:phantomize" = true
+		"origins:translucent" = true
+		"origins:burn_in_daylight" = true
+		"origins:fragile" = true
+
+	[origins."bee:bee"]
+		enabled = true
+		"bee:sugar_level" = true
+		"bee:sugar_level_behavior" = true
+		"bee:voar_ativar" = true
+		"bee:voar_voar" = true
+		"bee:voar_efeito" = true
+		"bee:boost" = true
+		"bee:fertilize" = true
+		"bee:invulnerability" = true
+		"bee:hunger" = true
+		"bee:sound_effects" = true
+		"bee:nesting" = true
+		"bee:water_effects" = true
+		"bee:stats" = true
+		"bee:small_size" = true
+		"bee:sleep" = true
+		"bee:no_armor" = true
+		"bee:honey_bottle" = true
+		"bee:heal" = true
+		"bee:foods" = true
+		"bee:swarm" = true
+		"bee:enter_hive" = true
+

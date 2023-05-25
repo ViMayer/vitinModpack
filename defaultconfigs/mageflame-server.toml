@@ -1,0 +1,19 @@
+
+###############################
+#Flame / Torch Entity Properties
+###############################
+[entities]
+	# The lifespan of a Mage Flame spell/entity in ticks.
+	#Ex. 20 ticks * 60 seconds * 5 = 6000 = 5 minutes.
+	#Range: 1200 ~ 72000
+	mageFlameLifespan = 24000
+	# The lifespan of a Lesser Revelation spell/entity in ticks.
+	#Range: 1200 ~ 72000
+	lesserRevelationLifespan = 32000
+	# The lifespan of a Greater Revelation spell/entity in ticks.
+	#Range: 1200 ~ 72000
+	greaterRevelationLifespan = 72000
+	# 
+	#Range: 1 ~ 20
+	updateLightTicks = 2
+

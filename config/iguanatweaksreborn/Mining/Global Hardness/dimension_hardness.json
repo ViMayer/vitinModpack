@@ -1,0 +1,14 @@
+[
+  {
+    "dimension": "minecraft:overworld",
+    "multiplier": 2.0
+  },
+  {
+    "dimension": "minecraft:the_nether",
+    "multiplier": 8.0
+  },
+  {
+    "dimension": "minecraft:the_end",
+    "multiplier": 16.0
+  }
+]

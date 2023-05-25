@@ -1,0 +1,50 @@
+[
+  {
+    "name": "before_day_1",
+    "conditions": {
+      "maxdaycount": 1
+    }
+  },
+  {
+    "name": "after_day_1",
+    "conditions": {
+      "mindaycount": 1
+    }
+  },
+  {
+    "name": "before_day_3",
+    "conditions": {
+      "maxdaycount": 3
+    }
+  },
+  {
+    "name": "after_day_3",
+    "conditions": {
+      "mindaycount": 3
+    }
+  },
+  {
+    "name": "before_day_5",
+    "conditions": {
+      "maxdaycount": 5
+    }
+  },
+  {
+    "name": "after_day_5",
+    "conditions": {
+      "mindaycount": 5
+    }
+  },
+  {
+    "name": "before_day_10",
+    "conditions": {
+      "maxdaycount": 10
+    }
+  },
+  {
+    "name": "after_day_10",
+    "conditions": {
+      "mindaycount": 10
+    }
+  }
+]

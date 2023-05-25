@@ -1,0 +1,136 @@
+[ 
+  // CUSTOM BUILDING BLOCKS HARDNESS:
+  // Stone bricks: main go-to to build
+  {
+    "tag": "minecraft:stone_bricks",
+    "hardness": 50.0
+  },
+  {
+    "id": "minecraft:cracked_stone_bricks",
+    "hardness": 12.5
+  },
+  {
+    "id": "minecraft:mossy_stone_bricks",
+    "hardness": 35.0
+  },
+  {
+    "id": "minecraft:stone_brick_slab",
+    "hardness": 25.0
+  },
+  {
+    "id": "minecraft:mossy_stone_brick_slab",
+    "hardness": 17.5
+  },
+  {
+    "id": "minecraft:stone_brick_stairs",
+    "hardness": 37.5
+  },
+  {
+    "id": "minecraft:mossy_stone_brick_stairs",
+    "hardness": 26.25
+  },
+  {
+    "id": "minecraft:stone_brick_wall",
+    "hardness": 50.0
+  },
+  {
+    "id": "minecraft:mossy_stone_brick_wall",
+    "hardness": 35.0
+  },
+
+  // CUSTOM BLOCK HARDNESS:
+  // made it easier to break so it's more satisfying to find ores
+  {
+    "tag": "minecraft:logs",
+    "hardness": 0.5
+  },
+  {
+    "id": "minecraft:blast_furnace",
+    "hardness": 10.0
+  },
+  {
+    "id": "minecraft:furnace",
+    "hardness": 0.15
+  },
+  {
+    "id": "minecraft:crafting_table",
+    "hardness": 0.15
+  },
+
+  {
+    "id": "minecraft:gravel",
+    "hardness": 0.35
+  },
+  {
+    "id": "minecraft:coal_ore",
+    "hardness": 0.15
+  },
+  {
+    "id": "minecraft:copper_ore",
+    "hardness": 0.15
+  },
+  {
+    "id": "minecraft:iron_ore",
+    "hardness": 2.0
+  },
+  {
+    "id": "minecraft:gold_ore",
+    "hardness": 0.15
+  },
+  {
+    "id": "minecraft:diamond_ore",
+    "hardness": 0.15
+  },
+  {
+    "id": "minecraft:redstone_ore",
+    "hardness": 0.15
+  },
+  {
+    "id": "minecraft:lapis_ore",
+    "hardness": 0.15
+  },
+  {
+    "id": "minecraft:emerald_ore",
+    "hardness": 0.15
+  },
+  {
+    "id": "minecraft:deepslate_coal_ore",
+    "hardness": 4.0
+  },
+  {
+    "id": "minecraft:deepslate_copper_ore",
+    "hardness": 4.0
+  },
+  {
+    "id": "minecraft:deepslate_iron_ore",
+    "hardness": 4.0
+  },
+  {
+    "id": "minecraft:deepslate_gold_ore",
+    "hardness": 4.0
+  },
+  {
+    "id": "minecraft:deepslate_diamond_ore",
+    "hardness": 4.0
+  },
+  {
+    "id": "minecraft:deepslate_redstone_ore",
+    "hardness": 4.0
+  },
+  {
+    "id": "minecraft:deepslate_lapis_ore",
+    "hardness": 4.0
+  },
+  {
+    "id": "minecraft:deepslate_emerald_ore",
+    "hardness": 4.0
+  },
+  {
+    "id": "minecraft:ancient_debris",
+    "hardness": 10.0
+  },
+  {
+    "tag": "iguanatweaksreborn:obsidians",
+    "hardness": 80.0
+  }
+]

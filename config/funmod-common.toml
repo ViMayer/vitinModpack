@@ -1,0 +1,128 @@
+
+[item]
+	#Item Config
+	#Attack damage of the Sword of Gluttony.
+	#Range: 0.0 ~ 1000.0
+	gluttonybasedamage = 29.0
+	#Ability damage of the Sword of Gluttony.
+	#Range: 0.0 ~ 1000.0
+	gluttonyabilitydamage = 10.0
+	#Attack damage of the Sword of Gluttony.
+	#Range: 0.0 ~ 1000.0
+	darkbasedamage = 28.0
+	#Attack damage of the Dawnbringer.
+	#Range: 0.0 ~ 1000.0
+	dawnbasedamage = 37.0
+	#Attack damage of the Dragon Blade.
+	#Range: 0.0 ~ 1000.0
+	dragonbasedamage = 32.0
+	#Attack damage of the Sword of Unending Fire.
+	#Range: 0.0 ~ 1000.0
+	unendingfbasedamage = 20.0
+	#Attack damage of the Energy Blade.
+	#Range: 0.0 ~ 1000.0
+	ebbasedamage = 21.0
+	#Attack damage of the Charged Energy Blade.
+	#Range: 0.0 ~ 1000.0
+	ebcbasedamage = 25.0
+	#Attack damage of the Sword of Hell.
+	#Range: 0.0 ~ 1000.0
+	hellswordbasedamage = 13.0
+	#Attack damage of the Sword of Joy.
+	#Range: 0.0 ~ 1000.0
+	swordofjoybasedamage = 9.0
+	#Attack damage of the Sword of Insanity.
+	#Range: 0.0 ~ 1000.0
+	swordofinsanitybasedamage = 13.0
+	#Attack damage of the Cloaked Wrath.
+	#Range: 0.0 ~ 1000.0
+	cloakedwrathbasedamage = 17.5
+	#Attack damage of the Divine Tools.
+	#Range: 0.0 ~ 1000.0
+	divinebasedamage = 30.0
+	#Attack damage of the Starforge-Voidforge.
+	#Range: 0.0 ~ 1000.0
+	starfvoidfbasedamage = 44.0
+	#Ability damage of the Starforge-Voidforge.
+	#Range: 0.0 ~ 1000.0
+	starfvoidfabilitydamage = 40.0
+	#Base attack damage of the items that are made of steel.
+	#Range: 0.0 ~ 1000.0
+	steelbasedamage = 12.0
+	#Ability damage of the Battle Axe.
+	#Range: 0.0 ~ 1000.0
+	battleaxeabilitydamage = 8.0
+	#Ability damage of the Powered Battle Axe.
+	#Range: 0.0 ~ 1000.0
+	poweredbattleaxeabilitydamage = 10.0
+	#Attack damage of the Planet Eater.
+	#Range: 0.0 ~ 1000.0
+	planeteaterbasedamage = 46.0
+	#Ability damage of the Planet Eater.
+	#Range: 0.0 ~ 1000.0
+	planeteaterabilitydamage = 50.0
+	#Attack damage of the Essence Shrieker.
+	#Range: 0.0 ~ 1000.0
+	godslayerbasedamage = 56.0
+	#Ability damage of the Essence Shrieker.
+	#Range: 0.0 ~ 1000.0
+	godslayerabilitydamage = 65.0
+	#Attack damage of the Death Scythe.
+	#Range: 0.0 ~ 1000.0
+	deathbasedamage = 60.0
+	#Ability damage of the Death Scythe.
+	#Range: 0.0 ~ 1000.0
+	deathabilitydamage = 40.0
+	#Attack damage of the Blaze Sword.
+	#Range: 0.0 ~ 1000.0
+	blazebasedamage = 8.0
+	#Attack damage of the Soul Stealer.
+	#Range: 0.0 ~ 1000.0
+	soulstealerbasedamage = 10.0
+	#Ability damage of the Soul Stealer.
+	#Range: 0.0 ~ 1000.0
+	soulstealerabilitydamage = 0.02
+
+[bow]
+	#Bow Config
+	#Bonus damage of the Divine Bow. Don't Forget that this bonus applies both min and max damage and uses base dmg of minecraft bow. (Normal Bow Dmg Range: 1-9)
+	#Range: 0.0 ~ 1000.0
+	divinebowadditivedamage = 15.0
+	#Bonus damage of the Dragon Bow. Don't Forget that this bonus applies both min and max damage and uses base dmg of minecraft bow. (Normal Bow Dmg Range: 1-9)
+	#Range: 0.0 ~ 1000.0
+	dragonbowadditivedamage = 22.0
+	#Bonus damage of the Predator. Don't Forget that this bonus applies both min and max damage and uses base dmg of minecraft bow. (Normal Bow Dmg Range: 1-9)
+	#Range: 0.0 ~ 1000.0
+	predatoradditivedamage = 17.0
+	#Bonus damage of the Bow of Unending Fire. Don't Forget that this bonus applies both min and max damage and uses base dmg of minecraft bow. (Normal Bow Dmg Range: 1-9)
+	#Range: 0.0 ~ 1000.0
+	bowofunendingfadditivedamage = 10.0
+	#Life leech ability of the Predator.
+	#Range: 0.0 ~ 1000.0
+	predatorability = 5.0
+
+[common]
+	#Common Config
+	#Spawning chance for lootkeepers.
+	#Range: > 1
+	lootkeeperChance = 1
+	#Spawning chance in for lootkeepers.
+	#Range: > 1
+	lootkeeperChanceIn = 300
+	#Health value for normal lootkeepers.
+	#Range: 1.0 ~ 500.0
+	lootkeeperHealth = 250.0
+	#Health value for boss lootkeepers.
+	#Range: 1.0 ~ 500.0
+	lootkeeperBossHealth = 350.0
+	#Armor value for all lootkeepers.
+	#Range: 1.0 ~ 500.0
+	lootkeeperArmor = 7.5
+	#Armor toughness value for all lootkeepers.
+	#Range: 1.0 ~ 500.0
+	lootkeeperArmorToughness = 5.0
+	#Limits essence of greed drops to monsters and animals, so not all LivingEntity will drop.
+	limitEssence = true
+	#Removes essence drop from the game. You won't be able to progress nor craft.
+	removeEssence = false
+

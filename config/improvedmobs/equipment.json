@@ -1,0 +1,1012 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "alexsmobs:skelewag_sword": [
+      1226,
+      -1.808
+    ],
+    "alexsmobs:tendon_whip": [
+      1225,
+      -1.8
+    ],
+    "botania:crystal_bow": [
+      1050,
+      0.0
+    ],
+    "botania:elementium_axe": [
+      946,
+      0.432
+    ],
+    "botania:elementium_sword": [
+      1084,
+      -0.672
+    ],
+    "botania:ender_dagger": [
+      1279,
+      -2.232
+    ],
+    "botania:livingwood_bow": [
+      1050,
+      0.0
+    ],
+    "botania:manasteel_axe": [
+      1072,
+      -0.576
+    ],
+    "botania:manasteel_sword": [
+      1210,
+      -1.68
+    ],
+    "botania:star_sword": [
+      568,
+      3.456
+    ],
+    "botania:terra_axe": [
+      418,
+      4.656
+    ],
+    "botania:terra_sword": [
+      568,
+      3.456
+    ],
+    "botania:thunder_sword": [
+      568,
+      3.456
+    ],
+    "greekfantasy:apollo_bow": [
+      1083,
+      0.0
+    ],
+    "greekfantasy:artemis_bow": [
+      1083,
+      0.0
+    ],
+    "greekfantasy:avernal_bow": [
+      1108,
+      0.0
+    ],
+    "greekfantasy:flint_knife": [
+      1311,
+      -2.488
+    ],
+    "greekfantasy:ivory_sword": [
+      1049,
+      -0.392
+    ],
+    "greekfantasy:throwing_axe": [
+      1087,
+      -0.696
+    ],
+    "minecraft:bow": [
+      1108,
+      0.0
+    ],
+    "minecraft:crossbow": [
+      1000,
+      0.0
+    ],
+    "minecraft:diamond_axe": [
+      693,
+      2.456
+    ],
+    "minecraft:diamond_sword": [
+      789,
+      1.688
+    ],
+    "minecraft:enchanted_book": [
+      1100,
+      0.0
+    ],
+    "minecraft:golden_axe": [
+      1248,
+      -1.984
+    ],
+    "minecraft:golden_sword": [
+      1362,
+      -2.896
+    ],
+    "minecraft:iron_axe": [
+      1087,
+      -0.696
+    ],
+    "minecraft:iron_sword": [
+      1225,
+      -1.8
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      1050,
+      0.0
+    ],
+    "minecraft:netherite_axe": [
+      498,
+      4.016
+    ],
+    "minecraft:netherite_sword": [
+      602,
+      3.184
+    ],
+    "minecraft:snowball": [
+      1400,
+      0.0
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      1050,
+      0.0
+    ],
+    "minecraft:stone_axe": [
+      1122,
+      -0.976
+    ],
+    "minecraft:stone_sword": [
+      1298,
+      -2.384
+    ],
+    "minecraft:tnt": [
+      800,
+      0.0
+    ],
+    "minecraft:trident": [
+      900,
+      0.0
+    ],
+    "minecraft:wooden_axe": [
+      1240,
+      -1.92
+    ],
+    "minecraft:wooden_sword": [
+      1354,
+      -2.832
+    ],
+    "notreepunching:diamond_knife": [
+      869,
+      1.048
+    ],
+    "notreepunching:diamond_saw": [
+      831,
+      1.352
+    ],
+    "notreepunching:flint_axe": [
+      1337,
+      -2.696
+    ],
+    "notreepunching:flint_knife": [
+      1397,
+      -3.176
+    ],
+    "notreepunching:gold_knife": [
+      1418,
+      -3.344
+    ],
+    "notreepunching:gold_saw": [
+      1392,
+      -3.136
+    ],
+    "notreepunching:iron_knife": [
+      1297,
+      -2.376
+    ],
+    "notreepunching:iron_saw": [
+      1263,
+      -2.104
+    ],
+    "notreepunching:macuahuitl": [
+      1337,
+      -2.696
+    ],
+    "notreepunching:netherite_knife": [
+      690,
+      2.48
+    ],
+    "notreepunching:netherite_saw": [
+      648,
+      2.816
+    ],
+    "simplyswords:arcanethyst": [
+      1,
+      8.472
+    ],
+    "simplyswords:awakened_lichblade": [
+      1,
+      8.472
+    ],
+    "simplyswords:bramblethorn": [
+      1240,
+      -1.92
+    ],
+    "simplyswords:brimstone_claymore": [
+      7,
+      7.944
+    ],
+    "simplyswords:diamond_chakram": [
+      831,
+      1.352
+    ],
+    "simplyswords:diamond_claymore": [
+      693,
+      2.456
+    ],
+    "simplyswords:diamond_cutlass": [
+      789,
+      1.688
+    ],
+    "simplyswords:diamond_glaive": [
+      789,
+      1.688
+    ],
+    "simplyswords:diamond_greataxe": [
+      639,
+      2.888
+    ],
+    "simplyswords:diamond_greathammer": [
+      581,
+      3.352
+    ],
+    "simplyswords:diamond_halberd": [
+      639,
+      2.888
+    ],
+    "simplyswords:diamond_katana": [
+      789,
+      1.688
+    ],
+    "simplyswords:diamond_longsword": [
+      789,
+      1.688
+    ],
+    "simplyswords:diamond_rapier": [
+      831,
+      1.352
+    ],
+    "simplyswords:diamond_sai": [
+      903,
+      0.776
+    ],
+    "simplyswords:diamond_scythe": [
+      743,
+      2.056
+    ],
+    "simplyswords:diamond_spear": [
+      789,
+      1.688
+    ],
+    "simplyswords:diamond_twinblade": [
+      789,
+      1.688
+    ],
+    "simplyswords:diamond_warglaive": [
+      789,
+      1.688
+    ],
+    "simplyswords:emberblade": [
+      181,
+      6.552
+    ],
+    "simplyswords:frostfall": [
+      69,
+      7.448
+    ],
+    "simplyswords:gold_chakram": [
+      1392,
+      -3.136
+    ],
+    "simplyswords:gold_claymore": [
+      1290,
+      -2.32
+    ],
+    "simplyswords:gold_cutlass": [
+      1362,
+      -2.896
+    ],
+    "simplyswords:gold_glaive": [
+      1362,
+      -2.896
+    ],
+    "simplyswords:gold_greataxe": [
+      1248,
+      -1.984
+    ],
+    "simplyswords:gold_greathammer": [
+      1202,
+      -1.616
+    ],
+    "simplyswords:gold_halberd": [
+      1248,
+      -1.984
+    ],
+    "simplyswords:gold_katana": [
+      1362,
+      -2.896
+    ],
+    "simplyswords:gold_longsword": [
+      1362,
+      -2.896
+    ],
+    "simplyswords:gold_rapier": [
+      1392,
+      -3.136
+    ],
+    "simplyswords:gold_sai": [
+      1440,
+      -3.52
+    ],
+    "simplyswords:gold_scythe": [
+      1328,
+      -2.624
+    ],
+    "simplyswords:gold_spear": [
+      1362,
+      -2.896
+    ],
+    "simplyswords:gold_twinblade": [
+      1362,
+      -2.896
+    ],
+    "simplyswords:gold_warglaive": [
+      1362,
+      -2.896
+    ],
+    "simplyswords:hearthflame": [
+      1,
+      9.032
+    ],
+    "simplyswords:icewhisper": [
+      1,
+      8.472
+    ],
+    "simplyswords:iron_chakram": [
+      1263,
+      -2.104
+    ],
+    "simplyswords:iron_claymore": [
+      1137,
+      -1.096
+    ],
+    "simplyswords:iron_cutlass": [
+      1225,
+      -1.8
+    ],
+    "simplyswords:iron_glaive": [
+      1225,
+      -1.8
+    ],
+    "simplyswords:iron_greataxe": [
+      1087,
+      -0.696
+    ],
+    "simplyswords:iron_greathammer": [
+      1033,
+      -0.264
+    ],
+    "simplyswords:iron_halberd": [
+      1087,
+      -0.696
+    ],
+    "simplyswords:iron_katana": [
+      1225,
+      -1.8
+    ],
+    "simplyswords:iron_longsword": [
+      1225,
+      -1.8
+    ],
+    "simplyswords:iron_rapier": [
+      1263,
+      -2.104
+    ],
+    "simplyswords:iron_sai": [
+      1327,
+      -2.616
+    ],
+    "simplyswords:iron_scythe": [
+      1183,
+      -1.464
+    ],
+    "simplyswords:iron_spear": [
+      1225,
+      -1.8
+    ],
+    "simplyswords:iron_twinblade": [
+      1225,
+      -1.8
+    ],
+    "simplyswords:iron_warglaive": [
+      1225,
+      -1.8
+    ],
+    "simplyswords:livyatan": [
+      127,
+      6.984
+    ],
+    "simplyswords:mjolnir": [
+      181,
+      6.552
+    ],
+    "simplyswords:molten_edge": [
+      127,
+      6.984
+    ],
+    "simplyswords:netherite_chakram": [
+      648,
+      2.816
+    ],
+    "simplyswords:netherite_claymore": [
+      498,
+      4.016
+    ],
+    "simplyswords:netherite_cutlass": [
+      602,
+      3.184
+    ],
+    "simplyswords:netherite_glaive": [
+      602,
+      3.184
+    ],
+    "simplyswords:netherite_greataxe": [
+      440,
+      4.48
+    ],
+    "simplyswords:netherite_greathammer": [
+      378,
+      4.976
+    ],
+    "simplyswords:netherite_halberd": [
+      440,
+      4.48
+    ],
+    "simplyswords:netherite_katana": [
+      602,
+      3.184
+    ],
+    "simplyswords:netherite_longsword": [
+      602,
+      3.184
+    ],
+    "simplyswords:netherite_rapier": [
+      648,
+      2.816
+    ],
+    "simplyswords:netherite_sai": [
+      728,
+      2.176
+    ],
+    "simplyswords:netherite_scythe": [
+      552,
+      3.584
+    ],
+    "simplyswords:netherite_spear": [
+      602,
+      3.184
+    ],
+    "simplyswords:netherite_twinblade": [
+      602,
+      3.184
+    ],
+    "simplyswords:netherite_warglaive": [
+      602,
+      3.184
+    ],
+    "simplyswords:runic_chakram": [
+      602,
+      3.184
+    ],
+    "simplyswords:runic_claymore": [
+      440,
+      4.48
+    ],
+    "simplyswords:runic_cutlass": [
+      552,
+      3.584
+    ],
+    "simplyswords:runic_glaive": [
+      552,
+      3.584
+    ],
+    "simplyswords:runic_greataxe": [
+      378,
+      4.976
+    ],
+    "simplyswords:runic_greathammer": [
+      312,
+      5.504
+    ],
+    "simplyswords:runic_halberd": [
+      378,
+      4.976
+    ],
+    "simplyswords:runic_katana": [
+      552,
+      3.584
+    ],
+    "simplyswords:runic_longsword": [
+      552,
+      3.584
+    ],
+    "simplyswords:runic_rapier": [
+      602,
+      3.184
+    ],
+    "simplyswords:runic_sai": [
+      690,
+      2.48
+    ],
+    "simplyswords:runic_scythe": [
+      498,
+      4.016
+    ],
+    "simplyswords:runic_spear": [
+      552,
+      3.584
+    ],
+    "simplyswords:runic_twinblade": [
+      552,
+      3.584
+    ],
+    "simplyswords:runic_warglaive": [
+      552,
+      3.584
+    ],
+    "simplyswords:shadowsting": [
+      391,
+      4.872
+    ],
+    "simplyswords:slumbering_lichblade": [
+      1,
+      8.472
+    ],
+    "simplyswords:soulkeeper": [
+      1,
+      9.032
+    ],
+    "simplyswords:soulpyre": [
+      1,
+      8.472
+    ],
+    "simplyswords:soulrender": [
+      127,
+      6.984
+    ],
+    "simplyswords:soulstealer": [
+      319,
+      5.448
+    ],
+    "simplyswords:stormbringer": [
+      181,
+      6.552
+    ],
+    "simplyswords:storms_edge": [
+      181,
+      6.552
+    ],
+    "simplyswords:sword_on_a_stick": [
+      1282,
+      -2.256
+    ],
+    "simplyswords:thunderbrand": [
+      1,
+      8.472
+    ],
+    "simplyswords:toxic_longsword": [
+      181,
+      6.552
+    ],
+    "simplyswords:twisted_blade": [
+      127,
+      6.984
+    ],
+    "simplyswords:waking_lichblade": [
+      1,
+      8.472
+    ],
+    "simplyswords:watcher_claymore": [
+      7,
+      7.944
+    ],
+    "simplyswords:watching_warglaive": [
+      181,
+      6.552
+    ]
+  },
+  "OFFHAND": {
+    "minecraft:ender_pearl": [
+      1100,
+      0.0
+    ],
+    "minecraft:flint_and_steel": [
+      1200,
+      0.0
+    ],
+    "minecraft:lava_bucket": [
+      900,
+      0.0
+    ],
+    "minecraft:shield": [
+      1350,
+      0.0
+    ]
+  },
+  "FEET": {
+    "alexsmobs:flying_fish_boots": [
+      1298,
+      -2.384
+    ],
+    "alexsmobs:roadrunner_boots": [
+      737,
+      2.104
+    ],
+    "botania:elementium_boots": [
+      704,
+      2.368
+    ],
+    "botania:manasteel_boots": [
+      729,
+      2.168
+    ],
+    "botania:manaweave_boots": [
+      1331,
+      -2.648
+    ],
+    "botania:terrasteel_boots": [
+      1,
+      8.312
+    ],
+    "create:diving_boots": [
+      1141,
+      -1.128
+    ],
+    "greekfantasy:hellenic_boots": [
+      606,
+      3.152
+    ],
+    "greekfantasy:snakeskin_boots": [
+      932,
+      0.544
+    ],
+    "greekfantasy:winged_sandals": [
+      762,
+      1.904
+    ],
+    "minecraft:chainmail_boots": [
+      1098,
+      -0.784
+    ],
+    "minecraft:diamond_boots": [
+      444,
+      4.448
+    ],
+    "minecraft:golden_boots": [
+      1201,
+      -1.608
+    ],
+    "minecraft:iron_boots": [
+      954,
+      0.368
+    ],
+    "minecraft:leather_boots": [
+      1356,
+      -2.848
+    ],
+    "minecraft:netherite_boots": [
+      361,
+      5.112
+    ],
+    "tgaprogression:hyper_boots": [
+      1333,
+      -2.664
+    ],
+    "tgaprogression:super_boots": [
+      1392,
+      -3.136
+    ],
+    "tgaprogression:xylion_boots": [
+      1,
+      17.696
+    ],
+    "toughasnails:leaf_boots": [
+      1447,
+      -3.576
+    ],
+    "toughasnails:wool_boots": [
+      1447,
+      -3.576
+    ]
+  },
+  "LEGS": {
+    "alexsmobs:centipede_leggings": [
+      1,
+      13.328
+    ],
+    "alexsmobs:emu_leggings": [
+      520,
+      3.84
+    ],
+    "botania:elementium_leggings": [
+      704,
+      2.368
+    ],
+    "botania:manasteel_leggings": [
+      729,
+      2.168
+    ],
+    "botania:manaweave_leggings": [
+      1331,
+      -2.648
+    ],
+    "botania:terrasteel_leggings": [
+      1,
+      8.312
+    ],
+    "greekfantasy:hellenic_leggings": [
+      606,
+      3.152
+    ],
+    "greekfantasy:snakeskin_leggings": [
+      932,
+      0.544
+    ],
+    "minecraft:chainmail_leggings": [
+      1098,
+      -0.784
+    ],
+    "minecraft:diamond_leggings": [
+      444,
+      4.448
+    ],
+    "minecraft:golden_leggings": [
+      1201,
+      -1.608
+    ],
+    "minecraft:iron_leggings": [
+      954,
+      0.368
+    ],
+    "minecraft:leather_leggings": [
+      1356,
+      -2.848
+    ],
+    "minecraft:netherite_leggings": [
+      361,
+      5.112
+    ],
+    "tgaprogression:xylion_greaves": [
+      1,
+      17.696
+    ],
+    "toughasnails:leaf_leggings": [
+      1447,
+      -3.576
+    ],
+    "toughasnails:wool_leggings": [
+      1447,
+      -3.576
+    ]
+  },
+  "CHEST": {
+    "alexsmobs:crocodile_chestplate": [
+      194,
+      6.448
+    ],
+    "alexsmobs:rocky_chestplate": [
+      256,
+      5.952
+    ],
+    "alexsmobs:tarantula_hawk_elytra": [
+      897,
+      0.824
+    ],
+    "alexsmobs:unsettling_kimono": [
+      900,
+      0.8
+    ],
+    "botania:elementium_chestplate": [
+      704,
+      2.368
+    ],
+    "botania:manasteel_chestplate": [
+      729,
+      2.168
+    ],
+    "botania:manaweave_chestplate": [
+      1331,
+      -2.648
+    ],
+    "botania:terrasteel_chestplate": [
+      1,
+      8.312
+    ],
+    "create:copper_backtank": [
+      1141,
+      -1.128
+    ],
+    "greekfantasy:hellenic_chestplate": [
+      606,
+      3.152
+    ],
+    "greekfantasy:snakeskin_chestplate": [
+      932,
+      0.544
+    ],
+    "minecraft:chainmail_chestplate": [
+      1098,
+      -0.784
+    ],
+    "minecraft:diamond_chestplate": [
+      444,
+      4.448
+    ],
+    "minecraft:golden_chestplate": [
+      1201,
+      -1.608
+    ],
+    "minecraft:iron_chestplate": [
+      954,
+      0.368
+    ],
+    "minecraft:leather_chestplate": [
+      1356,
+      -2.848
+    ],
+    "minecraft:netherite_chestplate": [
+      361,
+      5.112
+    ],
+    "quark:backpack": [
+      1356,
+      -2.848
+    ],
+    "tgaprogression:noble_shoulders_blue": [
+      1296,
+      -2.368
+    ],
+    "tgaprogression:noble_shoulders_green": [
+      1296,
+      -2.368
+    ],
+    "tgaprogression:noble_shoulders_red": [
+      1296,
+      -2.368
+    ],
+    "tgaprogression:xylion_plate": [
+      1,
+      17.696
+    ],
+    "toughasnails:leaf_chestplate": [
+      1447,
+      -3.576
+    ],
+    "toughasnails:wool_chestplate": [
+      1447,
+      -3.576
+    ]
+  },
+  "HEAD": {
+    "alexsmobs:fedora": [
+      1099,
+      -0.792
+    ],
+    "alexsmobs:frontier_cap": [
+      657,
+      2.744
+    ],
+    "alexsmobs:froststalker_helmet": [
+      880,
+      0.96
+    ],
+    "alexsmobs:moose_headgear": [
+      716,
+      2.272
+    ],
+    "alexsmobs:novelty_hat": [
+      1103,
+      -0.824
+    ],
+    "alexsmobs:sombrero": [
+      1036,
+      -0.288
+    ],
+    "alexsmobs:spiked_turtle_shell": [
+      443,
+      4.456
+    ],
+    "botania:elementium_helmet": [
+      704,
+      2.368
+    ],
+    "botania:manasteel_helmet": [
+      729,
+      2.168
+    ],
+    "botania:manaweave_helmet": [
+      1331,
+      -2.648
+    ],
+    "botania:terrasteel_helmet": [
+      1,
+      8.312
+    ],
+    "create:diving_helmet": [
+      1141,
+      -1.128
+    ],
+    "greekfantasy:hellenic_helmet": [
+      606,
+      3.152
+    ],
+    "greekfantasy:helm_of_darkness": [
+      650,
+      2.8
+    ],
+    "greekfantasy:nemean_lion_hide": [
+      39,
+      7.688
+    ],
+    "greekfantasy:snakeskin_helmet": [
+      932,
+      0.544
+    ],
+    "minecraft:chainmail_helmet": [
+      1098,
+      -0.784
+    ],
+    "minecraft:diamond_helmet": [
+      444,
+      4.448
+    ],
+    "minecraft:golden_helmet": [
+      1201,
+      -1.608
+    ],
+    "minecraft:iron_helmet": [
+      954,
+      0.368
+    ],
+    "minecraft:leather_helmet": [
+      1356,
+      -2.848
+    ],
+    "minecraft:netherite_helmet": [
+      361,
+      5.112
+    ],
+    "minecraft:turtle_helmet": [
+      865,
+      1.08
+    ],
+    "quark:forgotten_hat": [
+      1356,
+      -2.848
+    ],
+    "tgaprogression:wise_eye_blue": [
+      858,
+      1.136
+    ],
+    "tgaprogression:wise_eye_green": [
+      858,
+      1.136
+    ],
+    "tgaprogression:wise_eye_red": [
+      858,
+      1.136
+    ],
+    "tgaprogression:wise_eye_violet": [
+      858,
+      1.136
+    ],
+    "tgaprogression:xylion_helmet": [
+      1,
+      17.696
+    ],
+    "toughasnails:leaf_helmet": [
+      1447,
+      -3.576
+    ],
+    "toughasnails:wool_helmet": [
+      1447,
+      -3.576
+    ]
+  }
+}

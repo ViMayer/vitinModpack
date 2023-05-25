@@ -1,0 +1,16 @@
+{
+  "allowItemCollisions": false,
+  "allowPlayerCollisions": true,
+  "allowPetCollisions": true,
+  "bouncySlimes": true,
+  "fallDamageSharedWithLandedOnMob": true,
+  "fallDamageAmountAbsorbedByLandedOnMob": 0.5,
+  "allowInvisibleCollisions": false,
+  "allowShovingMobs": true,
+  "shoveAgainTimeInTicks": 20,
+  "allowVillagerCollisions": true,
+  "entityCollisionBlacklist": [
+    "list the full ID of entities to disable their collisions e.g. -\u003e \"entity.minecraft.creeper\" separated like the ratsmischief mod\u0027s rat example following",
+    "entity.ratsmischief.rat"
+  ]
+}

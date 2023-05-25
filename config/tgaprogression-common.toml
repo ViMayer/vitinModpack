@@ -1,0 +1,63 @@
+
+#General settings
+[general]
+	#If entity level is displayed on the entity's nametag
+	changeEntityNames = false
+	#Generate custom ore in the world
+	generateOre = false
+	#Buckets cannot draw water from ocean and swamp biomes
+	disableBucketsInOcean = false
+	#Drawing water from a water source spawns mud
+	bucketSpawnMud = false
+	#Set max level (doesn't reset player levels)
+	#Range: 10 ~ 1000
+	maxLevel = 666
+	#Modifier that is applied to XP gain on entity kill
+	#Range: 0.0 ~ 50.0
+	entityXpModifier = 50.0
+	#Additional explosion damage modifier per level
+	#Range: 0.0 ~ 50.0
+	explosionDamageModifier = 6.0
+	#Additional arrow damage modifier per level
+	#Range: 0.0 ~ 50.0
+	arrowDamageModifier = 4.0
+	#Additional strike damage modifier per level
+	#Range: 0.0 ~ 50.0
+	strikeDamageModifier = 5.0
+	#Additional health modifier per level
+	#Range: 0.0 ~ 50.0
+	healthModifier = 50.0
+	#Max amount of attribute points through special food
+	#Range: 0 ~ 500
+	maxFoodLuck = 100
+	#Max amount of attribute points through special food
+	#Range: 0 ~ 500
+	maxFoodVitality = 20
+	#Max amount of attribute points through special food
+	#Range: 0 ~ 500
+	maxFoodToughness = 20
+	#Max amount of attribute points through special food
+	#Range: 0 ~ 500
+	maxFoodDexterity = 20
+	#Max amount of attribute points through special food
+	#Range: 0 ~ 500
+	maxFoodStrength = 20
+	#Max amount of attribute points through special food
+	#Range: 0 ~ 500
+	maxFoodIntelligence = 20
+	#Max amount of attribute points through special food
+	#Range: 0 ~ 500
+	maxFoodPrecision = 20
+	#Harvest level needed to drop rods from darkwood
+	#Range: -1 ~ 100
+	darkwoodHarvestLevel = 45
+	#Harvest level needed to drop rods from redwood
+	#Range: -1 ~ 100
+	redwoodHarvestLevel = 30
+	#Harvest level needed to drop rods from lightwood
+	#Range: -1 ~ 100
+	lightwoodHarvestLevel = 15
+	#Chance to drop custom rods
+	#Range: 0.0 ~ 100.0
+	rodGeneralDropChance = 0.5
+

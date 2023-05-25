@@ -1,0 +1,106 @@
+// [
+//   {
+//   "mob": ["minecraft:creeper"],
+//   "hostile": true,
+//   "onjoin": true,
+//   "healthmultiply": 0.2,
+//   "damagemultiply": 1.3,
+//   "speedmultiply": 1.5
+// },
+//   {
+//     "hostile": true,
+//     "onjoin": true,
+//     "spawner": false,
+//     "healthmultiply": 2,
+//     "damagemultiply": 1.4
+//   },
+//   {
+//     "mob": ["minecraft:skeleton", "minecraft:wither_skeleton"],
+//     "hostile": true,
+//     "onjoin": true,
+//     "healthmultiply": 2,
+//     "damagemultiply": 1.4,
+//     "helditem": [
+//       "70=minecraft:stone_sword",
+//       "20=minecraft:iron_sword",
+//       "6=minecraft:golden_sword",
+//       "4=minecraft:diamond_sword"
+//     ]
+//   }
+//   // {
+//   //   "hostile": false,
+//   //   "onjoin": true,
+//   //   "spawner": false,
+//   //   "healthmultiply": 4,
+//   //   "damagemultiply": 1.45
+//   // }
+
+
+
+
+//   // {
+//   //   "mod": ["mageflame:winged_torch"],
+//   //   "onjoin": true,
+//   //   "healthmultiply": 10
+//   // },
+
+//   // {
+//   //   "mob": [
+//   //     "rottencreatures:frostbitten",
+//   //     "rottencreatures:glacial_hunter",
+//   //     "enemyexpansion:frigid",
+//   //     "enemyexpansion:senior"
+//   //   ],
+//   //   "onjoin": true,
+//   //   "biome": [
+//   //     "minecraft:snowy_beach",
+//   //     "minecraft:snowy_plains",
+//   //     "minecraft:snowy_taiga",
+//   //     "minecraft:snowy_slopes"
+//   //   ],
+//   //   "result": "allow",
+//   //   "healthmultiply": 2,
+//   //   "damagemultiply": 1.3
+//   // },
+
+//   // {
+//   //   "mob": ["enemyexpansion:ram"],
+//   //   "onjoin": true,
+//   //   "result": "allow",
+//   //   "biome": [
+//   //     "minecraft:snowy_beach",
+//   //     "minecraft:snowy_plains",
+//   //     "minecraft:snowy_taiga",
+//   //     "minecraft:snowy_slopes",
+//   //     "minecraft:jagged_peaks",
+//   //     "minecraft:frozen_peaks",
+//   //     "minecraft:stony_peaks"
+//   //   ]
+//   // },
+//   // {
+//   //   "mob": [
+//   //     "minecraft:zombie",
+//   //     "minecraft:skeleton",
+//   //     "born_in_chaos_v1:decaying_zombie",
+//   //     "born_in_chaos_v1:decaying_zombie_n",
+//   //     "born_in_chaos_v1:zombieswith_door",
+//   //     "born_in_chaos_v1:pumpkin_spirit",
+//   //     "born_in_chaos_v1:mr_pumpkin"
+//   //   ],
+//   //   "onjoin": true,
+//   //   "result": "allow",
+//   //   "biome": [
+//   //     "minecraft:meadow"
+//   //   ]
+//   // },
+//   // {
+//   //   "mod":  ["enemyexpansion", "rottencreatures","born_in_chaos_v1","greekfantasy","minecraft"],
+//   //   "result": "deny",
+//   //   "spawner": false,
+//   //   "onjoin": true,
+//   //   "healthmultiply": 0.1,
+//   //   "damagemultiply": 0.1
+//   // }
+
+
+// ]
