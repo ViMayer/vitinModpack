@@ -7,12 +7,15 @@
     "C:\\Users\\Victor\\AppData\\Roaming\\.minecraft\\config\\animations\\++AnimationV1_3+BetterCombat.cpmproject",
     "C:\\Users\\Victor\\AppData\\Roaming\\.minecraft\\++AnimationV1_3+BetterCombat.cpmproject",
     "C:\\Users\\Victor\\AppData\\Roaming\\.minecraft\\config\\++AnimationV1_3+BetterCombat.cpmproject",
-    "C:\\Users\\Victor\\AppData\\Roaming\\.minecraft\\config\\TESTE_01.cpmproject"
+    "C:\\Users\\Victor\\AppData\\Roaming\\.minecraft\\TESTE_01.cpmproject"
   ],
   "editorRotateMouseButton": 2.0,
   "editorSelectMouseButton": 0.0,
   "keybinds": {},
   "serverSettings": {},
   "titleScreenButton": true,
-  "editorUVAreaAlpha": 0.33333334
+  "editorUVAreaAlpha": 0.33333334,
+  "selectedModelOld": "~~VANILLA~~",
+  "selectedModel": ".temp.cpmmodel",
+  "reopenProject": "C:\\Users\\Victor\\AppData\\Roaming\\.minecraft\\TESTE_01.cpmproject"
 }
