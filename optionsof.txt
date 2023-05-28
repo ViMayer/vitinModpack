@@ -2,7 +2,7 @@ ofFogType:2
 ofFogStart:0.8
 ofMipmapType:0
 ofOcclusionFancy:false
-ofSmoothFps:true
+ofSmoothFps:false
 ofSmoothWorld:true
 ofAoLevel:1.0
 ofClouds:0
@@ -53,7 +53,7 @@ ofShowCapes:true
 ofNaturalTextures:false
 ofEmissiveTextures:true
 ofLazyChunkLoading:false
-ofRenderRegions:false
+ofRenderRegions:true
 ofSmartAnimations:true
 ofDynamicFov:true
 ofAlternateBlocks:true

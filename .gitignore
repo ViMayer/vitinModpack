@@ -6,7 +6,11 @@ crash-reports
 emotes
 HIDE
 logs
-mods/
+mods/aparencia
+mods/desativados
+mods/guardados
+mods/mobs
+mods/otimizacao
 libraries
 natives
 patchouli_books

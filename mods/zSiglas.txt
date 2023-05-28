@@ -1,4 +1,4 @@
-AP- Aparencia
+AP- Aparencia (24 MODS)
 
 CT- Customizacoes especificas do modpack
 
@@ -7,8 +7,11 @@ GPB- Gameplay BASE
 GPE- Gameplay EARLY GAME
 GPAP- Gameplay APARENCIA
 
-OT- Otimizacao
+OT- Otimizacao (4 MODS)
+OTO- Otimizacao Opcional (21 MODS)
 WG- World Gen
 DP- Dependencias
 
 QOL- Qualidade de vida
+
+DEV- Utilidade para desenvolvimento

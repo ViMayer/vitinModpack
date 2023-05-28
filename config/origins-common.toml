@@ -357,6 +357,7 @@
 		"origins:translucent" = true
 		"origins:burn_in_daylight" = true
 		"origins:fragile" = true
+		"tanfasma:fominha" = true
 
 	[origins."bee:bee"]
 		enabled = true
@@ -381,4 +382,115 @@
 		"bee:foods" = true
 		"bee:swarm" = true
 		"bee:enter_hive" = true
+		"bee:efeito_som" = true
+
+	[origins."anao:anao"]
+		enabled = true
+		"anao:teste" = true
+		"anao:pequeno" = true
+		"anao:magic_resistance" = true
+		"anao:damage_resistance" = true
+		"anao:stats" = true
+		"anao:pancudo" = true
+		"anao:comer" = true
+		"anao:visao_noturna" = true
+		"anao:pesado" = true
+		"anao:bad_swimmer" = true
+		"anao:poderes" = true
+		"anao:second_chance_bar" = true
+		"anao:second_chance" = true
+		"anao:entity_effects" = true
+		"anao:crafting" = true
+
+	[origins."kodaa:air_bender"]
+		enabled = true
+		"kodaa:air_bender/launch_into_air" = true
+		"kodaa:air_bender/main_push" = true
+		"kodaa:air_bender/flight" = true
+		"kodaa:air_bender/desc" = true
+		"kodaa:air_bender/cloud" = true
+		"kodaa:air_bender/copter_sound" = true
+		"kodaa:air_bender/add_stick" = true
+		"kodaa:air_bender/remove_stick" = true
+		"kodaa:air_bender/glider" = true
+		"kodaa:air_bender/glide_particles" = true
+		"kodaa:air_bender/desc1" = true
+		"kodaa:air_bender/gust" = true
+		"kodaa:air_bender/wings" = true
+		"kodaa:air_bender/fly" = true
+		"kodaa:air_bender/arrow" = true
+		"kodaa:air_bender/arrow1" = true
+		"kodaa:air_bender/arrow2" = true
+		"kodaa:air_bender/toggle" = true
+		"kodaa:air_bender/knockback" = true
+		"kodaa:air_bender/punch" = true
+		"kodaa:air_bender/punch_effect" = true
+		"kodaa:air_bender/fall_immunity" = true
+		"kodaa:air_bender/speed" = true
+		"kodaa:air_bender/weak" = true
+		"kodaa:air_bender/armor/no_iron" = true
+		"kodaa:air_bender/armor/no_gold" = true
+		"kodaa:air_bender/armor/no_diamond" = true
+		"kodaa:air_bender/armor/no_netherite" = true
+
+	[origins."kodaa:earth_bender"]
+		enabled = true
+		"kodaa:earth_bender/rock_throw" = true
+		"kodaa:earth_bender/rock_effect" = true
+		"kodaa:earth_bender/pillar_main" = true
+		"kodaa:earth_bender/pillar_push" = true
+		"kodaa:earth_bender/push" = true
+		"kodaa:earth_bender/knockback" = true
+		"kodaa:earth_bender/punch" = true
+		"kodaa:earth_bender/push_aerialdamage" = true
+		"kodaa:earth_bender/punch_effect" = true
+		"kodaa:earth_bender/strong_arms" = true
+		"kodaa:earth_bender/break" = true
+		"kodaa:earth_bender/grow" = true
+		"kodaa:earth_bender/desc" = true
+		"kodaa:earth_bender/status" = true
+		"kodaa:earth_bender/status2" = true
+
+	[origins."kodaa:fire_bender"]
+		enabled = true
+		"kodaa:fire_bender/flame_hand" = true
+		"kodaa:fire_bender/fireball" = true
+		"kodaa:fire_bender/jet" = true
+		"kodaa:fire_bender/fire_hands" = true
+		"kodaa:fire_bender/toggle" = true
+		"kodaa:fire_bender/main_fire" = true
+		"kodaa:fire_bender/flame" = true
+		"kodaa:fire_bender/fire_wall" = true
+		"kodaa:fire_bender/set_fire" = true
+		"kodaa:fire_bender/strength" = true
+		"kodaa:fire_bender/resistance" = true
+		"kodaa:fire_bender/no_shield" = true
+		"kodaa:fire_bender/self_control" = true
+		"kodaa:fire_bender/water" = true
+
+	[origins."kodaa:water_bender"]
+		enabled = true
+		"kodaa:water_bender/waterblast" = true
+		"kodaa:water_bender/frost_feet" = true
+		"kodaa:water_bender/frost_energy" = true
+		"kodaa:water_bender/frost" = true
+		"kodaa:water_bender/toggle2" = true
+		"kodaa:water_bender/run_speed" = true
+		"kodaa:water_bender/bubble" = true
+		"kodaa:water_bender/water" = true
+		"kodaa:water_bender/toggle" = true
+		"kodaa:water_bender/propel" = true
+		"kodaa:water_bender/aqua_affinity" = true
+		"origins:like_water" = true
+		"kodaa:water_bender/swim_particles" = true
+		"kodaa:water_bender/swim_particles2" = true
+		"kodaa:water_bender/speed" = true
+		"kodaa:water_bender/desert" = true
+		"kodaa:water_bender/desc" = true
+		"kodaa:water_bender/lightning" = true
+		"kodaa:water_bender/punch_effect" = true
+
+	[origins."kodaa:bender"]
+		enabled = true
+		"kodaa:bender/desc" = true
 
