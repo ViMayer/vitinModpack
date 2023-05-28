@@ -4,8 +4,14 @@
   "editorLastVersion": "0.6.7a",
   "editorMenuMouseButton": 1.0,
   "editorRecentProjects": [
+    "C:\\Users\\Victor\\AppData\\Roaming\\.minecraft\\config\\VII-AnimationV1_3+BetterCombat.cpmproject",
+    "C:\\Users\\Victor\\AppData\\Roaming\\.minecraft\\config\\VII2-AnimationV1_3+BetterCombat.cpmproject",
+    "C:\\Users\\Victor\\AppData\\Roaming\\.minecraft\\config\\VII3-AnimationV1_3+BetterCombat.cpmproject",
+    "C:\\Users\\Victor\\AppData\\Roaming\\.minecraft\\++AnimationV1_3+BetterCombat.cpmproject",
+    "C:\\Users\\Victor\\AppData\\Roaming\\.minecraft\\teste.cpmproject",
+    "C:\\Users\\Victor\\AppData\\Roaming\\.minecraft\\teste2.cpmproject",
     "C:\\Users\\Victor\\AppData\\Roaming\\.minecraft\\config\\animations\\++AnimationV1_3+BetterCombat.cpmproject",
-    "C:\\Users\\Victor\\AppData\\Roaming\\.minecraft\\++AnimationV1_3+BetterCombat.cpmproject"
+    "C:\\Users\\Victor\\AppData\\Roaming\\.minecraft\\teste3.cpmproject"
   ],
   "editorRotateMouseButton": 2.0,
   "editorSelectMouseButton": 0.0,
@@ -15,5 +21,5 @@
   "editorUVAreaAlpha": 0.33333334,
   "selectedModelOld": "~~VANILLA~~",
   "selectedModel": ".temp.cpmmodel",
-  "reopenProject": "C:\\Users\\Victor\\AppData\\Roaming\\.minecraft\\++AnimationV1_3+BetterCombat.cpmproject"
+  "reopenProject": "C:\\Users\\Victor\\AppData\\Roaming\\.minecraft\\teste3.cpmproject"
 }

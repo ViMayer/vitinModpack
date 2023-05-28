@@ -14,7 +14,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -26,7 +26,7 @@ screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
 gamma:0.01056338028169014
-renderDistance:16
+renderDistance:32
 simulationDistance:5
 entityDistanceScaling:1.0
 guiScale:2
@@ -111,39 +111,66 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_key.jei.nextPage:key.keyboard.unknown
-key_key.jei.nextSearch:key.keyboard.unknown
+key_inventorio.keys.use_utility:key.keyboard.unknown
+key_inventorio.keys.next_utility:key.mouse.4
+key_inventorio.keys.prev_utility:key.mouse.5
+key_inventorio.keys.empty_utility:key.keyboard.unknown
+key_inventorio.keys.rocket_boost:key.keyboard.unknown
+key_inventorio.keys.open_player_settings:key.keyboard.i
+key_inventorio.keys.open_global_settings:key.keyboard.o
+key_auditory.sound_reload_key:key.keyboard.unknown
+key_placebo.toggleTrails:key.keyboard.keypad.9
+key_placebo.toggleWings:key.keyboard.keypad.8
+key_key.origins.primary_active:key.keyboard.g
+key_key.origins.secondary_active:key.keyboard.h
+key_key.origins.view_origin:key.keyboard.o
+key_iris.keybind.reload:key.keyboard.r
+key_iris.keybind.toggleShaders:key.keyboard.k
+key_iris.keybind.shaderPackSelection:key.keyboard.o
+key_key.jei.bookmark:key.keyboard.unknown
+key_key.jei.cheatItemStack:key.mouse.left:SHIFT
+key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
+key_key.jei.toggleHideIngredient:key.keyboard.unknown
+key_key.jei.previousRecipePage:key.keyboard.unknown
 key_key.jei.recipeBack:key.keyboard.unknown
 key_key.jei.previousCategory:key.keyboard.unknown
-key_key.jei.showRecipe:key.keyboard.r
-key_key.jei.showRecipe2:key.mouse.left
-key_key.jei.showUses2:key.mouse.right
-key_key.jei.cheatItemStack2:key.mouse.middle
-key_key.jei.cheatOneItem:key.mouse.left
-key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
-key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
-key_key.jei.bookmark:key.keyboard.unknown
-key_key.jei.showUses:key.keyboard.u
-key_key.jei.clearSearchBar:key.keyboard.unknown
-key_key.jei.previousRecipePage:key.keyboard.unknown
-key_key.jei.previousPage:key.keyboard.unknown
-key_key.jei.cheatItemStack:key.mouse.left:SHIFT
-key_key.jei.previousSearch:key.keyboard.unknown
-key_key.jei.nextRecipePage:key.keyboard.unknown
+key_key.jei.nextPage:key.keyboard.unknown
 key_key.jei.toggleCheatModeConfigButton:key.keyboard.unknown
-key_key.jei.cheatOneItem2:key.mouse.right
-key_key.jei.closeRecipeGui:key.keyboard.unknown
-key_key.jei.toggleHideIngredient:key.keyboard.unknown
-key_key.jei.nextCategory:key.keyboard.unknown
-key_key.jei.toggleWildcardHideIngredient:key.keyboard.unknown
-key_key.jei.focusSearch:key.keyboard.f:CONTROL
+key_key.jei.previousSearch:key.keyboard.unknown
+key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
+key_key.jei.showRecipe:key.keyboard.r
+key_key.jei.nextRecipePage:key.keyboard.unknown
+key_key.jei.showUses:key.keyboard.u
 key_key.jei.toggleCheatMode:key.keyboard.unknown
+key_key.jei.clearSearchBar:key.keyboard.unknown
 key_key.jei.copy.recipe.id:key.keyboard.unknown
+key_key.jei.nextCategory:key.keyboard.unknown
+key_key.jei.cheatOneItem:key.mouse.left
+key_key.jei.previousPage:key.keyboard.unknown
+key_key.jei.toggleWildcardHideIngredient:key.keyboard.unknown
+key_key.jei.cheatOneItem2:key.mouse.right
+key_key.jei.cheatItemStack2:key.mouse.middle
+key_key.jei.closeRecipeGui:key.keyboard.unknown
+key_key.jei.showUses2:key.mouse.right
+key_key.jei.focusSearch:key.keyboard.f:CONTROL
+key_key.jei.showRecipe2:key.mouse.left
+key_key.jei.nextSearch:key.keyboard.unknown
 key_key.jei.toggleEditMode:key.keyboard.unknown
 key_key.third_life_plus.toggle_visibility_keybind:key.keyboard.page.down:SHIFT
 key_key.third_life_plus.set_lives_side:key.keyboard.page.up:SHIFT
-key_placebo.toggleTrails:key.keyboard.keypad.9
-key_placebo.toggleWings:key.keyboard.keypad.8
+key_key.configured.open_mod_list:key.keyboard.unknown
+key_key.cpm.gestureMenu:key.keyboard.g
+key_key.cpm.renderToggle:key.keyboard.unknown
+key_key.cpm.qa_1:key.keyboard.unknown
+key_key.cpm.qa_2:key.keyboard.unknown
+key_key.cpm.qa_3:key.keyboard.unknown
+key_key.cpm.qa_4:key.keyboard.unknown
+key_key.cpm.qa_5:key.keyboard.unknown
+key_key.cpm.qa_6:key.keyboard.unknown
+key_key.emotecraft.fastchoose:key.keyboard.b
+key_key.emotecraft.stop:key.keyboard.unknown
+key_sndctrl.text.quickvolumemenu.open:key.keyboard.v:CONTROL
+key_sndctrl.text.soundconfig.open:key.keyboard.i:CONTROL
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_key.jade.config:key.keyboard.keypad.0
@@ -153,13 +180,23 @@ key_key.jade.show_recipes:key.keyboard.keypad.3
 key_key.jade.show_uses:key.keyboard.keypad.4
 key_key.jade.narrate:key.keyboard.keypad.5
 key_key.jade.show_details:key.keyboard.left.shift
+key_Camera left:key.keyboard.left
+key_Camera right:key.keyboard.right
+key_Camera closer:key.keyboard.up
+key_Camera farther:key.keyboard.down
+key_Camera up:key.keyboard.page.up
+key_Camera down:key.keyboard.page.down
+key_Swap shoulder:key.keyboard.o
+key_Toggle perspective:key.keyboard.unknown
+key_key.personality.crawl:key.keyboard.z:SHIFT
+key_key.personality.sit:key.keyboard.z
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
-key_key.origins.primary_active:key.keyboard.g
-key_key.origins.secondary_active:key.keyboard.h
-key_key.origins.view_origin:key.keyboard.o
 key_Toggle Zoom:key.keyboard.c
+key_cos.key.opencosarmorinventory:key.keyboard.unknown
+key_key.entityculling.toggle:key.keyboard.unknown
 key_key.pickup.item:key.keyboard.unknown
+key_key.firstperson.toggle:key.keyboard.f6
 soundCategory_master:0.18608579
 soundCategory_music:0.0
 soundCategory_record:1.0
